@@ -1,0 +1,14 @@
+{
+  "name": "argos",
+  "version": "0.0.1",
+  "description": "argos",
+  "repository": {
+    "type": "git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-less": "latest",
+    "grunt-contrib-requirejs": "^0.4.4",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
