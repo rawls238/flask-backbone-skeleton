@@ -7,7 +7,11 @@ A fork off this backbone skeleton: https://github.com/mezod/skeleton
 Process for setup:
 
 1) Launch a python web app with elastic beanstalk
+
 2) In your new repository put this code
+
 3) git push
+
 4) eb deploy
+
 5) profit
